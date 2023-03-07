@@ -1,0 +1,31 @@
+.checkbox_container {
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: inherit;
+  font-family: "Bitter";
+  border-style: None;
+  margin-bottom: 13.5px;
+  width: 33.3%;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: 400;
+  color: black;
+  text-align: left;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: default;
+}
+
+.checkbox_label {
+  display: inline-block;
+  font-family: "Bitter";
+  margin-left: 10px;
+  font-size: 20px;
+}
