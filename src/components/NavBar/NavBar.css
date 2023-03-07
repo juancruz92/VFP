@@ -1,0 +1,46 @@
+.navbar {
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  background-image: url(https://firebasestorage.googleapis.com/v0/b/savvy-flow-uploads/o/4RXvxCSMg5tge2SxmGmO%2Fmasthead_8855959215327189.png?alt=media&token=6ef96c8a-bc55-4b61-906f-9d8276777e9d);
+  padding-top: 30px;
+  margin-bottom: 27px;
+  background-repeat: repeat-x;
+}
+
+.navbar_inside {
+  width: 100%;
+  max-width: 970px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 14em;
+  height: 34px;
+  background-image: url(https://firebasestorage.googleapis.com/v0/b/savvy-flow-uploads/o/4RXvxCSMg5tge2SxmGmO%2Flogo_37776161069309055.svg?alt=media&token=e6528361-ecfb-4899-8f64-de0e6d96d29d);
+  background-repeat: no-repeat;
+  background-position: 0 -18.5em;
+  border-style: None;
+  border-radius: 0px;
+}
+
+.links_list {
+    list-style: none;
+    display: flex;
+    margin: 0px;
+}
+
+.links_list li {
+    color: #353535;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif, Arial;
+    padding-top: 0.5em;
+    padding-right: 0.7em;
+    padding-left: 0.7em;
+    padding-bottom: 0.7em;
+    border-style: None;
+    line-height: 1;
+    font-weight: 400;
+}
