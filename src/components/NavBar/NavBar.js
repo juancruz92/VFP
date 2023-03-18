@@ -1,4 +1,4 @@
-import logo from "../../images/logo.svg";
+import React from "react";
 import "./NavBar.css";
 
 const navBar = () => {
